@@ -50,7 +50,7 @@ The original image taken with +1 exposure compensation. The sky behind the skysc
 
 
 <p style="text-align:center;">
-  <img src="../images/egykepbol_8596_crop1.jpg" width="600" height="400" name="Arnyek" alt="Crops of shadow" border="0" pagespeed_url_hash="3486502493"/>
+  <img src="../images/IMG_8596_crop1.jpg" width="600" height="400" name="Arnyek" alt="Crops of shadow" border="0" pagespeed_url_hash="3486502493"/>
 </p>
 
 <div class="MouseOverBackground1">
