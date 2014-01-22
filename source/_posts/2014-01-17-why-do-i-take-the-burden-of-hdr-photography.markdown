@@ -39,7 +39,7 @@ Exposure bracketing exactly does that: takes a sequence of images with different
 The original image taken with +1 exposure compensation. The sky behind the skyscrapers is overexposed just as the top of the cabin of the sailing boat in the bottom right corner and higher floors of the buildings.
 
 <p style="text-align:center;">
-  <img src="../images/egykepbol_8596_web1.jpg" width="600" height="400" name="Eredeti" alt="Full originals" border="0" pagespeed_url_hash="3486502493"/>
+  <img src="../images/img_8596_web.jpg" width="600" height="400" name="Eredeti" alt="Full originals" border="0" pagespeed_url_hash="3486502493"/>
 </p>
 
 <div class="MouseOverBackground1">
@@ -61,7 +61,7 @@ The original image taken with +1 exposure compensation. The sky behind the skysc
 
 
 <p style="text-align:center;">
-  <img src="../images/egykepbol_8596_hajoorr.jpg" width="600" height="400" name="Hajoorr" alt="Hajoorr crop" border="0" pagespeed_url_hash="3486502493"/>
+  <img src="../images/img_8596_hajoorr.jpg" width="600" height="400" name="Hajoorr" alt="Hajoorr crop" border="0" pagespeed_url_hash="3486502493"/>
 </p>
 
 <div class="MouseOverBackground1">
@@ -104,6 +104,8 @@ The original image taken with +1 exposure compensation. The sky behind the skysc
   E3.src='../images/tobbkepbol_8596_8598_epulet.jpg'
   CROP1=new Image(600,400)
   CROP1.src='../images/egykepbol_8596_crop1.jpg'
+  CROP2=new Image(600,400)
+  CROP2.src='../images/IMG_8596_crop1.jpg'
   CROP3=new Image(600,400)
   CROP3.src='../images/tobbkepbol_8596_8598_crop1.jpg'
   ORIG1=new Image(600,400)
