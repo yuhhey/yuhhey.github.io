@@ -37,6 +37,7 @@ A shot is a momentary event, with constant setting. We hav to remember that the 
 Exposure bracketing exactly does that: takes a sequence of images with different exposure setting. The details of bright and dark areas are recorded this way. Unfortunately the details are in different images. It makes the post-processing more demanding. There are plenty of tutorials about how to align these images and merge the details into one. I will concentrate on evaluating the benefits of the whole process assuming you know how to do it.
 
 The images below compare the following 3 methods:
+
 1. An image taken with +1 exosure compensation
 2. Image merged from 3 images developed from the above image with different exposure settings. I call it the 'Exposure tweaked image'
 3. Image merged from an exposure bracket sequence
