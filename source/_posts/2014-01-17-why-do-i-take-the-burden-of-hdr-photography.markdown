@@ -9,7 +9,7 @@ The post-processing workflow of exposure bracketed image sequences, i.e. input t
 
 It all started with an image I took of a pagoda in China. It was really unique how the top of the look as if a small tree was growing on the roof. I let the camera adjust to the high contrast, high dynamic range scene and have not even checked the image on the LCD of the camera.
 
-The shock happened at home. Well it does not look like I perceived at all. Anyone looking at this photo might wonders why I took it.
+It was shocking to see how different the photo was compared to how I perceived the scene. Anyone looking at this photo might wonders why I took it.
 
 Luckily I took the original image in RAW, therefore I could try to play with the exposure value during the RAW development.
 
@@ -23,18 +23,23 @@ Exposure value tweaking during RAW development.
     <a href="javascript:void(0)" onmouseover="switchimage('Comparison2','LJ2');">HDR from exposure tweaked images</a> |
 </div>
 
-It did not delivered acceptable result. Though astonishing amount of detail is recovered compared to the original version, the signal to noise ratio is horrible in the shadow. I would not put this image printed in my living room.
+It did not deliver acceptable result. Though astonishing amount of detail is recovered compared to the original version, the signal to noise ratio is horrible in the shadow. I would not put this image printed in my living room.
 
 **Lesson No. 1**: One can not reconstruct the information not recorded in the images even with the most sophisticated postprocessing workflow. 
 
 Therefore I started to explore how we perceive and explore a scene with our eyes and brain. I found two major differences between human perception and photos taken with camera here :
 
 * Our eyes scans around the scene
-* Our pupil dynamically adjusts during the scan to allow seeing details in bright and dark areas.
+* Our pupil dynamically adjusts during the scan to enable seeing details in bright and dark areas.
 
-We can not do anything about the scanning. It happens during looking at a photo too. Our mission is to provide all the details for the scanning in a natural non-disturbing way.
+A shot is a momentary event, with constant setting. We hav to remember that the viewer of our photo is going to scan it asif the original scene is observed. Our mission is to provide all the details for the scanning in a natural non-disturbing way.
 
-Exposure bracketing exactly does that: takes a sequence of images with different exposures. The details of bright and dark areas are recorded this way. The trouble, that makes the post-processing more demanding, is that the details are in different images. Let’s two images to compare a single shot to and image generated from three exposure bracketted images.
+Exposure bracketing exactly does that: takes a sequence of images with different exposure setting. The details of bright and dark areas are recorded this way. Unfortunately the details are in different images. It makes the post-processing more demanding. There are plenty of tutorials about how to align these images and merge the details into one. I will concentrate on evaluating the benefits of the whole process assuming you know how to do it.
+
+The images below compare the following 3 methods:
+1. An image taken with +1 exosure compensation
+2. Image merged from 3 images developed from the above image with different exposure settings. I call it the 'Exposure tweaked image'
+3. Image merged from an exposure bracket sequence
 
 The original image taken with +1 exposure compensation. The sky behind the skyscrapers is overexposed just as the top of the cabin of the sailing boat in the bottom right corner and higher floors of the buildings.
 
