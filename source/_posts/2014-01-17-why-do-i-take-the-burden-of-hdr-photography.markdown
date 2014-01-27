@@ -16,7 +16,7 @@ Luckily I took the original image in RAW, therefore I could try to play with the
 Exposure value tweaking during RAW development.
 
 <p style="text-align:center;">
-    <img src="http://adorjan.hopto.org:1974/content/images/2013/Dec/lijiang200806040.jpg" width="600" height="400" name="Comparison2" alt="LiJiang pagoda underexposed" border="0" pagespeed_url_hash="4058031720"/>
+    <img src="../images/lijiang200806040.jpg" width="600" height="400" name="Comparison2" alt="LiJiang pagoda underexposed" border="0" pagespeed_url_hash="4058031720"/>
 </p>
 <div class="MouseOverBackground">
     <a href="javascript:void(0)" onmouseover="switchimage('Comparison2','LJ1');">Original</a> |
