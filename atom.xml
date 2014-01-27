@@ -4,7 +4,7 @@
   <title><![CDATA[Image sequences]]></title>
   <link href="http://yuhhey.github.io/atom.xml" rel="self"/>
   <link href="http://yuhhey.github.io/"/>
-  <updated>2014-01-23T17:35:30+01:00</updated>
+  <updated>2014-01-27T16:39:28+01:00</updated>
   <id>http://yuhhey.github.io/</id>
   <author>
     <name><![CDATA[yuhhey]]></name>
@@ -29,7 +29,7 @@
 <p>Exposure value tweaking during RAW development.</p>
 
 <p style="text-align:center;">
-    <img src="http://adorjan.hopto.org:1974/content/images/2013/Dec/lijiang200806040.jpg" width="600" height="400" name="Comparison2" alt="LiJiang pagoda underexposed" border="0" pagespeed_url_hash="4058031720"/>
+    <img src="../images/lijiang200806040.jpg" width="600" height="400" name="Comparison2" alt="LiJiang pagoda underexposed" border="0" pagespeed_url_hash="4058031720"/>
 </p>
 
 
